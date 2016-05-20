@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+h1, h2{
+  color: teal;
+  margin: 30px;
+}
+
+
+.container {
+  border: 3px solid teal;
+  padding: 10px;
+  margin: 30px;
+  width: 250px;
+
+}
+
+#animalForm {
+  display: block;
+  margin-left: 30px;
+}
